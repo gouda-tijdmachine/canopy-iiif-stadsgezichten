@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://coret.github.io/canopy-iiif-stadsgezichten
+Host: https://gouda-tijdmachine.github.io/canopy-iiif-stadsgezichten
 
 # Sitemaps
-Sitemap: https://coret.github.io/canopy-iiif-stadsgezichten/sitemap.xml
+Sitemap: https://gouda-tijdmachine.github.io/canopy-iiif-stadsgezichten/sitemap.xml
